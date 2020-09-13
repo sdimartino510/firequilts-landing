@@ -4,6 +4,9 @@ h1, h2, h3, h4, h5, h6 {
 p {
   font-family: 'Jura', sans-serif;
 }
+.navLogo {
+  padding-right: 14px;
+}
 .customNav {
   position: fixed;
   width: 100%;
