@@ -43,9 +43,9 @@ p {
   background: black;
 }
 .jumbotron {
-  background-image: url(../images/rockOn_dark.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-image: url(../images/country-quilt.png);
+  background-size: auto;
+  background-repeat: repeat;
   height: 500px;
   height: calc(100vh - 25px);
   display: flex;
@@ -56,7 +56,7 @@ p {
   width: 70%;
   min-width: 500px;
   max-width: 700px;
-  color: white;
+  color: #000000;
   text-align: center;
 }
 .content {
