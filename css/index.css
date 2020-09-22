@@ -42,6 +42,9 @@ p {
   text-decoration: none;
   background: black;
 }
+.topLogo {
+  margin-bottom: 25px;
+}
 .jumbotron {
   background-image: url(../images/country-quilt.png);
   background-size: auto;
@@ -58,6 +61,9 @@ p {
   max-width: 700px;
   color: #000000;
   text-align: center;
+}
+.helpButton {
+  margin-top: 20px;
 }
 .content {
   padding: 50px;
