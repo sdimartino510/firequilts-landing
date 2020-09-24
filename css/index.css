@@ -31,6 +31,13 @@ p {
 }
 .navCTA {
   font-size: 15px;
+  width: 120px;
+}
+.about {
+  margin-right: 10px;
+}
+.home {
+  margin-right: -5px;
 }
 .dropdown-menu {
   background: url("../images/transparency.png");
